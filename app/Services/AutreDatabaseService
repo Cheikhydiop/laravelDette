@@ -1,0 +1,10 @@
+<?php
+namespace App\Services;
+
+class MySQLDatabaseService implements DatabaseServiceInterface
+{
+    public function connect()
+    {
+        // Logique pour se connecter à MySQL
+    }
+}

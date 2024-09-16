@@ -1,0 +1,16 @@
+[90m= [39m[34;4mApp\Notifications\DebtReminderNotification[39;24m {#5394
+    +[1mid[22m: [36mnull[39m,
+    +[1mlocale[22m: [36mnull[39m,
+    +[1mclient[22m: [34;4mApp\Models\Client[39;24m {#5341},
+    +[1mtotalDue[22m: [33m150.0[39m,
+    +[1mconnection[22m: [36mnull[39m,
+    +[1mqueue[22m: [36mnull[39m,
+    +[1mchainConnection[22m: [36mnull[39m,
+    +[1mchainQueue[22m: [36mnull[39m,
+    +[1mchainCatchCallbacks[22m: [36mnull[39m,
+    +[1mdelay[22m: [36mnull[39m,
+    +[1mafterCommit[22m: [36mnull[39m,
+    +[1mmiddleware[22m: [],
+    +[1mchained[22m: [],
+  }
+
