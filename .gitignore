@@ -19,3 +19,4 @@ yarn-error.log
 /.vscode
 # Ignorer les fichiers sensibles
 storage/firebase/firebase-credentials.json
+storage/firebase/firebase-credentials.json
